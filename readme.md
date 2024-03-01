@@ -10,3 +10,7 @@
 
  ## Lancez le wordpress
  ``` wp-env start ```
+
+ ## Puis lancez le projet
+
+``` http://localhost:8888/ ```
